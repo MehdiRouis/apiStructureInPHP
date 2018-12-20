@@ -1,0 +1,16 @@
+Recherche à faire :
+
+
+-> POST with API ( AngularJS )
+-> Cookies / Sessions with API ( AngularJS )
+
+
+Systèmes à faire :
+
+-> Inscription
+-> Connexion
+-> Déconnexion
+-> Types de comptes ( Développeur / Client particulier / Entreprise )
+-> Dashboard de l'administration ( Administration sans AngularJS )
+-> Poster des news dans l'administration
+-> 
